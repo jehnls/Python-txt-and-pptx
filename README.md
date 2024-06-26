@@ -2,7 +2,7 @@
 - https://python-pptx.readthedocs.io/en/latest/
 
 ## Historia do produto
-   - Esse script trata um arquivo txt com 400 canticos, e trasforma o cantico em um slide no power point, armazenando na pasta "/hinos"
+   - Esse script trata um arquivo txt com 400 canticos, e transforma o cantico em um slide no power point, armazenando na pasta "/hinos"
 
 ## O que foi automatizado:
 
